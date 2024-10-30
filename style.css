@@ -1,0 +1,318 @@
+body,html{
+    background-color: brown;
+}
+#navbar{
+    padding:15px;
+    padding-left: 14px;
+    display: flex;
+    background-color:whitesmoke;
+    box-shadow: 0px 1px 4px;
+    align-items: center;
+    position: absolute;
+    z-index:100;
+}
+#navbar h2{
+    text-shadow: 0px 1px 2px;
+}
+.active{
+    color:#494552;
+}
+#nav-items{
+    text-align: end;
+}
+#nav-items a{
+    color:slategray;
+    text-decoration: none;
+    text-shadow: 0px 0.5px 1.1px;
+    margin-left: 1vw;
+
+}
+#nav-items a:hover{
+    color:#363636be;
+}
+
+.animation {
+  display: inline-block;
+  position: relative;
+}
+
+
+/**/
+
+#small-navigation{
+    display:flex;
+    position: sticky;
+    top:0;
+    background-color:whitesmoke;
+    z-index:99;
+    align-items: center;
+
+}
+
+#small-navigation h3{
+    text-shadow: 0px 0.3px 1px;
+}
+
+#small-navigation a{
+    color:slategray;
+}
+#small-navigation a:hover{
+    color:black
+}
+
+#sections-titles{
+    text-align:right;
+    display: inherit;
+    justify-content: space-evenly;
+}
+
+/**/
+
+.section1{
+    /*background-color: white;*/
+    background-attachment:scroll;
+    background-image: url("images/giphy.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+    height:83vh;
+    position:relative;
+    color:white;
+
+}
+
+.section1 h1{
+    padding-top: 28vh;
+    margin-left:50px;
+    margin-right:50px;
+    overflow-wrap:break-word;
+}
+
+.section1 p{
+    overflow-wrap: break-word;
+    margin-top:10px;
+    margin-left:10vw;
+    margin-right:10vw;
+    font-size: 20px;
+}
+#buttons{
+    margin-top:50px;
+}
+#buttons a{
+    margin:10px;
+    padding-top:15px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
+    font-size:20px;
+    color:white;
+    text-decoration: none;
+    border-radius:10px;
+    background-color: #461e7dbe;
+    box-shadow: 0px 0px 2px lightblue;
+}
+
+#buttons a:hover{
+    box-shadow: 0px 0px 10px;
+}
+
+/**/
+
+#section2{
+    background-image: url("images/about2.jpg");
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    color:white;
+    text-decoration: bold;
+    font-family: unbounded;
+
+}
+
+#section2 h1{
+    align-self: center;
+}
+
+#blockgroup{
+    justify-content: space-evenly;
+    margin-top:40px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.block{
+    padding:30px;
+    text-align: center;
+}
+
+.block p{
+    overflow-wrap: break-word;
+    font-size: 14px;
+    margin-left:26px;
+    margin-right:26px;
+}
+
+/**/
+
+#section3{
+    background-color: white;
+    padding:50px;
+}
+
+#section3 img{
+    width:100%;
+}
+
+#section3 h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#section3 a{
+    color:white;
+    background-color:#461e7d;
+    margin:20px;
+    text-decoration: none;
+    border-radius: 55px;
+    padding-top:18px;
+    padding-bottom:18px;
+    padding-right:24px;
+    padding-left:24px;
+}
+
+#section3 a:hover{
+    opacity:0.9;
+}
+
+/**/
+
+#footer{
+    background-color: #f7f7f7;
+    padding:60px;
+}
+
+#titles a{
+    margin:30px;
+    color:black;
+    font-size:20px;
+}
+
+#titles a:hover{
+    opacity:0.85;
+}
+
+#titles{
+    display: flex;
+    justify-content: space-evenly;
+}
+#footbase{
+    margin:20px;
+}
+#footbase a{
+    margin:10px;
+    font-size: 14px;
+    color:black;
+}
+
+#footbase a:hover{
+    opacity:0.85;
+}
+
+#realfoot{
+
+    align-items: center;
+    text-align: center;
+
+}
+
+/**/
+
+#midSection{
+    font-family: cursive;
+    padding-left:10px;
+    padding-right: 10px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    background-color: whitesmoke;
+}
+
+#midSection h2{
+    margin-bottom: 50px;
+}
+
+#midSection p{
+    margin-left:13vw;
+    margin-right: 13vw;
+}
+#links{
+    align-items: center;
+    text-align: center;
+    margin-top:70px;
+}
+
+#links a{
+    background-color: #461e7d;
+    align-self: center;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+    color:white;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#links a:hover{
+    font-size: 17px;
+    opacity: 0.9;
+}
+
+/**/
+
+.about1{
+    background-image: url("images/about.png");
+    background-attachment:initial;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+    height:83vh;
+    position:relative;
+}
+
+.about1 h1{
+    padding-top: 28vh;
+    margin-left:50px;
+    margin-right:50px;
+    overflow-wrap:break-word;
+    color:white;
+    font-size: 5vw;
+    font-family:Unbounded;
+}
+
+.about1 p{
+    overflow-wrap: break-word;
+    margin-top:30px;
+    margin-left:10vw;
+    margin-right:10vw;
+    font-size: 20px;
+    color:white;
+}
+
+/**/
+
+#about2{
+    background-color: #461e7d;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    color:white;
+    text-decoration: bold;
+    font-family: unbounded;
+}
+
+#about2 h1{
+    align-self: center;
+}
