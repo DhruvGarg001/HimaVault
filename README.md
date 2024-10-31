@@ -1,7 +1,11 @@
 # HimaVault
 
 
-**HimaVault** is a fictional company that hosts its data centers in the Himalayas. The website is intended for users to see, learn, & improvise their basics of web-developent. Feel free to see the wikis section for more details. Please note that all content, including company information and operations, is purely fictional.
+**HimaVault** is a fictional company that hosts its data centers in the Himalayas. The website is intended for users to see, learn, & improvise their basics of web-developent. Please note that all content, including company information and operations, is purely fictional.
+
+Feel free to visit:
+- [Wikis](https://github.com/DhruvGarg001/HimaVault/wiki) section for more information on this project.
+- [Discussions](https://github.com/DhruvGarg001/HimaVault/discussions) Section to discuss on issues, doubts, improvements and more.
 
 ---
 
@@ -41,7 +45,6 @@ This project was created by **Dhruv Garg**.
 Feel free to reach out if you have any questions or would like to discuss my work further:
 
 - **Email**: dhruvgarg2025@gmail.com
-- *A discord Server is coming soon...*
 
 ---
 
