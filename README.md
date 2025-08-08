@@ -3,21 +3,15 @@
 
 **HimaVault** is a fictional company that hosts its data centers in the Himalayas. The website is intended for users to see, learn, & improvise their basics of web-developent. Please note that all content, including company information and operations, is purely fictional.
 
-Feel free to visit:
-- [Wikis](https://github.com/DhruvGarg001/HimaVault/wiki) section for more information on this project.
-- [Discussions](https://github.com/DhruvGarg001/HimaVault/discussions) Section to discuss on issues, doubts, improvements and more.
-
 ---
 
 ### 🌟 Key Features
-
-
 - **User-Friendly Interface**: A clean, intuitive design for easy navigation.
 - **Responsive Design**: Optimized for desktop and mobile viewing.
 
 ### 🚧 Current Status
 
-As of now, the website features a functional Home Page and About Us Page. I expect learners to build it further to enhance their learning journey.
+As of now, the website features a functional Home Page and About Us Page. 
 
 ### 💻 Technologies Used
 
@@ -36,7 +30,7 @@ As of now, the website features a functional Home Page and About Us Page. I expe
 
 ## 📅 Created By
 
-This project was created by **Dhruv Garg**.
+This project was created by **Dhruv Garg** in 2023.
 
 ---
 
